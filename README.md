@@ -8,9 +8,9 @@ The requests for update go independently with goroutines.
 __________________________________________________________________________________________________________________________________________________________
 
 ## **Dependencies** <br />
-_github.com/mattn/go-sqlite3_: Go SQLite3 driver.
-_github.com/pressly/goose/v3/cmd/goose_: Goose command-line tool for database migrations.
-_github.com/lib/pq_: PostgreSQL driver for Go's database/sql package.
+_github.com/mattn/go-sqlite3_: Go SQLite3 driver. <br />
+_github.com/pressly/goose/v3/cmd/goose_: Goose command-line tool for database migrations. <br />
+_github.com/lib/pq_: PostgreSQL driver for Go's database/sql package. <br />
 
 __________________________________________________________________________________________________________________________________________________________
 
